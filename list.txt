@@ -1,5 +1,10 @@
+[Adblock Plus 2.0]
+! Title: D's Personal List
+!
+! Reddit promo & ads
 reddit.com###xpromo-bottom-sheet
 reddit.com##.promoted link
 #shreddit-ad-post
 reddit.com##shreddit-ad-post
+!startpage ads
 startpage.com##div[style*="margin-bottom"] > div[style*="display: block"]
