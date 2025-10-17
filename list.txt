@@ -1,0 +1,5 @@
+reddit.com###xpromo-bottom-sheet
+reddit.com##.promoted link
+#shreddit-ad-post
+reddit.com##shreddit-ad-post
+startpage.com##div[style*="margin-bottom"] > div[style*="display: block"]
